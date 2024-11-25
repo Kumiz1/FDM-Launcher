@@ -1,13 +1,13 @@
 {
     "name": "FDM-Launcher",
-    "preductname": "FDM Launcher",
-    "version": "2.0.7",
+    "preductname": "Launcher FDM",
+    "version": "1.0",
     "description": "Launcher Mincraft pour le serveur FDM",
     "main": "src/app.js",
     "author": {
         "name": "Kumiz, Inc.",
         "email": "mattisbouery.pro@gmail.com",
-        "url": "https://github.com/luuxis"
+        "url": "https://github.com/Kumiz1"
     },
     "url": "http://87.106.129.12/",
     "scripts": {
