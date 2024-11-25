@@ -1,6 +1,6 @@
 {
     "name": "FDM-Launcher",
-    "preductname": "Launcher FDM",
+    "preductname": "FDM Launcher",
     "version": "2.0.7",
     "description": "Launcher Mincraft pour le serveur FDM",
     "main": "src/app.js",
