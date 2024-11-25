@@ -9,12 +9,12 @@
         "email": "mattisbouery.pro@gmail.com",
         "url": "https://github.com/luuxis"
     },
-    "url": "http://88.198.53.38/FDM-Launcher-WEB-Folder/",
+    "url": "http://87.106.129.12/",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
         "build": "node build.js --obf=true --build=platform",
-        "icon": "node build.js --icon=https://cdn.discordapp.com/attachments/886999286389276722/1284938891777802271/Logo_FDM_V3.png?ex=674565d8&is=67441458&hm=15094f028abb1a46ae260cfc90dc391e6d66786bca677d82b5cf73aad310f7f3&"
+        "icon": "node build.js --icon="
     },
     "license": "CCANC",
     "nodemonConfig": {
